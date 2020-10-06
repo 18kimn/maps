@@ -1,0 +1,219 @@
+National Center for Education Statistics,,,,,,,,,,,,,,,,
+"CCD public school district data 2018-2019, 2019-2020 school years",,,,,,,,,,,,,,,,
+The file contains (204) records based on your search.,,,,,,,,,,,,,,,,
+NOTES:,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+* denotes a column with data from 2019-2020,,,,,,,,,,,,,,,,
+"[ † ] indicates that the data are not applicable. For example, the enrollment and staff characteristics for districts that opened in the 2019-2020 school year will not be available until the full 2019-2020 file is released.",,,,,,,,,,,,,,,,
+[ – ] indicates that the data are missing.,,,,,,,,,,,,,,,,
+[ ‡ ] indicates that the data do not meet NCES data quality standards.,,,,,,,,,,,,,,,,
+"The directory information on district name, address, and phone number are preliminary data from initial submissions of district level data for 2019-2020.",,,,,,,,,,,,,,,,
+Data provided on student membership and staffing are from the official district level data for 2018-2019.,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"SEARCH CRITERIA: State: ""Connecticut"" - School Description: ""regular, component, supervisory union, regional, state, federal, charter, other""",,,,,,,,,,,,,,,,
+"NCES is not responsible for the manner in which this data is presented. This data is provided as an extra service to the user. To download full CCD datasets, please go to the CCD homepage. http://nces.ed.gov/ccd",,,,,,,,,,,,,,,,
+NCES District ID,State District ID,District Name,County Name*,Street Address,City,State,ZIP,ZIP 4-digit,Phone,Students*,Teachers*,Schools,Locale Code*,Locale*,Student Teacher Ratio*,Type
+0900208,CT-2850013,Achievement First Bridgeport Academy District,Fairfield County,370 James Street,New Haven,CT,06513,,(203)333-9128,1093.00000,66.50000,1.00000,12,City: Midsize,16.40000000,Other Education Agency
+0900212,CT-2880013,Achievement First Hartford Academy District,Hartford County,370 James Street,New Haven,CT,06513,,(860)695-5280,1112.00000,95.25000,1.00000,12,City: Midsize,11.70000000,Other Education Agency
+0900024,CT-2790013,Amistad Academy District,New Haven County,370 James Street,New Haven,CT,06513,,(203)772-7000,1083.00000,124.00000,1.00000,12,City: Midsize,8.70000000,Other Education Agency
+0900030,CT-0010011,Andover School District,Tolland County,35 School Road,Andover,CT,06232,,(860)742-7339,191.00000,20.90000,1.00000,41,Rural: Fringe,9.10000000,Regular School District
+0900060,CT-0020011,Ansonia School District,New Haven County,42 Grove Street,Ansonia,CT,06401,,(203)736-5095,2305.00000,150.30000,4.00000,21,Suburb: Large,15.30000000,Regular School District
+0900070,CT-2440014,Area Cooperative Educational Services,New Haven County,350 State Street,North Haven,CT,06473,,(203)498-6817,1874.00000,198.35000,2.00000,21,Suburb: Large,9.40000000,
+0900090,CT-0030011,Ashford School District,Windham County,440 Westford Rd.,Ashford,CT,06278,,(860)429-1927,409.00000,41.00000,1.00000,42,Rural: Distant,10.00000000,Regular School District
+0900120,CT-0040011,Avon School District,Hartford County,34 Simsbury Road,Avon,CT,06001,,(860)404-4700,3138.00000,237.40000,5.00000,21,Suburb: Large,13.20000000,Regular School District
+0900150,CT-0050011,Barkhamsted School District,Litchfield County,65 Ripley Hill Road,Barkhamsted,CT,06063,,(860)738-4016,226.00000,17.40000,1.00000,41,Rural: Fringe,13.00000000,Regular School District
+0900210,CT-0070011,Berlin School District,Hartford County,238 Kensington Road,Berlin,CT,06037,,(860)828-6581,2787.00000,227.30000,5.00000,21,Suburb: Large,12.30000000,Regular School District
+0900240,CT-0080011,Bethany School District,New Haven County,44 Peck Road,Bethany,CT,06524,,(203)393-1170,364.00000,31.80000,1.00000,41,Rural: Fringe,11.40000000,Regular School District
+0900270,CT-0090011,Bethel School District,Fairfield County,Box 253,Bethel,CT,06801,,(203)794-8601,3102.00000,232.06000,5.00000,22,Suburb: Midsize,13.40000000,Regular School District
+0900330,CT-0110011,Bloomfield School District,Hartford County,1133 Blue Hills Avenue,Bloomfield,CT,06002,,(860)769-4200,2171.00000,192.19000,8.00000,21,Suburb: Large,11.30000000,Regular School District
+0900360,CT-0120011,Bolton School District,Tolland County,72 Brandy Street,Bolton,CT,06043,,(860)643-1569,781.00000,72.80000,2.00000,41,Rural: Fringe,10.70000000,Regular School District
+0900217,CT-2950013,Booker T. Washington Academy District,New Haven County,804 State Street,New Haven,CT,06511,,(203)691-6535,360.00000,25.00000,1.00000,12,City: Midsize,14.40000000,Other Education Agency
+0900390,CT-0130011,Bozrah School District,New London County,P.O. Box 185,Bozrah,CT,06334,0185,(860)887-2561,201.00000,20.20000,1.00000,41,Rural: Fringe,10.00000000,Regular School District
+0900420,CT-0140011,Branford School District,New Haven County,1111 Main Street,Branford,CT,06405,,(203)488-7276,2850.00000,244.30000,5.00000,21,Suburb: Large,11.70000000,Regular School District
+0900215,CT-2900013,Brass City Charter School District,New Haven County,289 Willow St.,Waterbury,CT,06710,,(203)527-5942,287.00000,25.90000,1.00000,22,Suburb: Midsize,11.10000000,Other Education Agency
+0900450,CT-0150011,Bridgeport School District,Fairfield County,45 Lyon Terrace,Bridgeport,CT,06604,,(203)275-1037,20396.00000,1400.30000,36.00000,12,City: Midsize,14.60000000,Regular School District
+0900510,CT-0170011,Bristol School District,Hartford County,129 Church Street,Bristol,CT,06011,,(860)584-7000,7836.00000,540.10000,13.00000,21,Suburb: Large,14.50000000,Regular School District
+0900540,CT-0180011,Brookfield School District,Fairfield County,100 Pocono Road,Brookfield,CT,06804,,(203)775-7700,2619.00000,199.50000,4.00000,22,Suburb: Midsize,13.10000000,Regular School District
+0900570,CT-0190011,Brooklyn School District,Windham County,119 Gorman Road,Brooklyn,CT,06234,,(860)774-9732,910.00000,64.70000,2.00000,41,Rural: Fringe,14.10000000,Regular School District
+0900630,CT-0210011,Canaan School District,Litchfield County,246 Warren Turnpike Road,Falls Village,CT,06031,,(860)824-7791,63.00000,11.50000,1.00000,42,Rural: Distant,5.50000000,Regular School District
+0900660,CT-0220011,Canterbury School District,Windham County,45 Westminster Road,Canterbury,CT,06331,,(860)546-6950,465.00000,40.50000,2.00000,41,Rural: Fringe,11.50000000,Regular School District
+0900690,CT-0230011,Canton School District,Hartford County,4 Market Street,Collinsville,CT,06022,,(860)693-7704,1550.00000,117.67000,4.00000,21,Suburb: Large,13.20000000,Regular School District
+0900221,CT-2970013,Capital Preparatory Harbor School District,Fairfield County,777 Main St.,Bridgeport,CT,06604,,(475)422-5900,634.00000,20.00000,1.00000,12,City: Midsize,31.70000000,Other Education Agency
+0900700,CT-2410014,Capitol Region Education Council,Hartford County,111 Charter Oak Avenue,Hartford,CT,06106,,(860)524-4063,8672.00000,729.66000,16.00000,21,Suburb: Large,11.90000000,
+0900720,CT-0240011,Chaplin School District,Windham County,Box 277,Chaplin,CT,06235,,(860)455-9306,154.00000,15.70000,1.00000,41,Rural: Fringe,9.80000000,Regular School District
+0900750,CT-0250011,Cheshire School District,New Haven County,29 Main Street,Cheshire,CT,06410,,(203)250-2400,4270.00000,320.92000,7.00000,21,Suburb: Large,13.30000000,Regular School District
+0900780,CT-0260011,Chester School District,Middlesex County,Box 187,Deep River,CT,06417,,(860)526-2417,194.00000,21.50000,1.00000,21,Suburb: Large,9.00000000,Regular School District
+0900810,CT-0270011,Clinton School District,Middlesex County,137 B Glenwood Road,Clinton,CT,06413,,(860)664-6500,1743.00000,156.29000,3.00000,21,Suburb: Large,11.20000000,Regular School District
+0900840,CT-0280011,Colchester School District,New London County,127 Norwich Avenue,Colchester,CT,06415,,(860)537-7267,2309.00000,190.47000,4.00000,31,Town: Fringe,12.10000000,Regular School District
+0900870,CT-0290011,Colebrook School District,Litchfield County,Box 9,Colebrook,CT,06021,,(860)379-2179,84.00000,9.40000,1.00000,42,Rural: Distant,8.90000000,Regular School District
+0900900,CT-0300011,Columbia School District,Tolland County,PO Box 166,Columbia,CT,06237,,(860)228-9493,433.00000,38.90000,1.00000,42,Rural: Distant,11.10000000,Regular School District
+0900014,CT-2680013,Common Ground High School District,New Haven County,358 Springside Ave.,New Haven,CT,06515,,(203)389-0823,216.00000,21.00000,1.00000,12,City: Midsize,10.30000000,Other Education Agency
+0900002,CT-9000016,Connecticut Technical Education and Career System,Middlesex County,39 Woodland Street,Hartford,CT,06105,,(860)807-2200,10645.00000,1014.91000,17.00000,21,Suburb: Large,10.50000000,State District
+0900910,CT-2430014,Cooperative Educational Services,Fairfield County,40 Lindeman Drive,Trumbull,CT,06611,,(203)365-8803,839.00000,112.70000,1.00000,12,City: Midsize,7.40000000,
+0900930,CT-0310011,Cornwall School District,Litchfield County,246 Warren Turnpike Road,Falls Village,CT,06031,,(860)672-6617,91.00000,14.50000,1.00000,42,Rural: Distant,6.30000000,Regular School District
+0900960,CT-0320011,Coventry School District,Tolland County,1700 Main Street,Coventry,CT,06238,,(860)742-7317,1641.00000,144.70000,4.00000,41,Rural: Fringe,11.30000000,Regular School District
+0900990,CT-0330011,Cromwell School District,Middlesex County,9 Captain James Mann Memorial Drive,Cromwell,CT,06416,,(860)632-4830,1932.00000,156.60000,4.00000,21,Suburb: Large,12.30000000,Regular School District
+0901020,CT-0340011,Danbury School District,Fairfield County,63 Beaver Brook Road,Danbury,CT,06810,,(203)797-4701,11507.00000,800.55000,18.00000,13,City: Small,14.40000000,Regular School District
+0901050,CT-0350011,Darien School District,Fairfield County,Box 1167,Darien,CT,06820,,(203)656-7400,4740.00000,414.30000,7.00000,21,Suburb: Large,11.40000000,Regular School District
+0901080,CT-0360011,Deep River School District,Middlesex County,Box 187,Deep River,CT,06417,,(860)526-2417,242.00000,25.80000,1.00000,21,Suburb: Large,9.40000000,Regular School District
+0900027,CT-3370015,Department of Mental Health and Addiction Services,Hartford County,Box 341431,Hartford,CT,06134,,(860)262-7009,1.00000,1.00000,0.00000,12,City: Midsize,1.00000000,State District
+0900026,CT-3320015,Department of Social Services,Hartford County,25 Sigourney Street,Hartford,CT,06106,,(860)424-5129,†,†,0.00000,12,City: Midsize,†,State District
+0901110,CT-0370011,Derby School District,New Haven County,35 Fifth Street,Derby,CT,06418,,(203)736-5027,1298.00000,116.30000,5.00000,21,Suburb: Large,11.20000000,Regular School District
+0901170,CT-0400011,East Granby School District,Hartford County,Box 674,East Granby,CT,06026,,(860)653-6486,848.00000,82.05000,4.00000,41,Rural: Fringe,10.30000000,Regular School District
+0901200,CT-0410011,East Haddam School District,Middlesex County,Box 401,Moodus,CT,06469,,(860)873-5090,1007.00000,96.40000,3.00000,31,Town: Fringe,10.40000000,Regular School District
+0901230,CT-0420011,East Hampton School District,Middlesex County,94 Main Street,East Hampton,CT,06424,,(860)365-4000,1864.00000,137.80000,4.00000,31,Town: Fringe,13.50000000,Regular School District
+0901260,CT-0430011,East Hartford School District,Hartford County,1110 Main Street,East Hartford,CT,06108,,(860)622-5101,6812.00000,511.00000,12.00000,13,City: Small,13.30000000,Regular School District
+0901290,CT-0440011,East Haven School District,New Haven County,35 Wheelbarrow Lane,East Haven,CT,06513,,(203)468-3261,2868.00000,229.00000,8.00000,21,Suburb: Large,12.50000000,Regular School District
+0901320,CT-0450011,East Lyme School District,New London County,PO Box 220,East Lyme,CT,06333,,(860)739-3966,2693.00000,238.15000,5.00000,41,Rural: Fringe,11.30000000,Regular School District
+0901350,CT-0470011,East Windsor School District,Hartford County,70 South Main Street,East Windsor,CT,06088,,(860)623-3346,1092.00000,106.60000,3.00000,41,Rural: Fringe,10.20000000,Regular School District
+0901360,CT-2530014,Eastern Connecticut Regional Educational Service Center,Windham County,376 Hartford Turnpike,Hampton,CT,06247,,(860)455-0707,429.00000,72.82000,3.00000,21,Suburb: Large,5.90000000,
+0901380,CT-0390011,Eastford School District,Windham County,Box 158,Eastford,CT,06242,,(860)974-1130,165.00000,14.86000,1.00000,42,Rural: Distant,11.10000000,Regular School District
+0901410,CT-0460011,Easton School District,Fairfield County,PO Box 500,Easton,CT,06612,,(203)261-2513,897.00000,72.80000,2.00000,41,Rural: Fringe,12.30000000,Regular School District
+0903512,CT-2420014,EDUCATION CONNECTION,Fairfield County,345 Main Street,Danbury,CT,06810,,(860)567-0863,278.00000,24.55000,0.00000,13,City: Small,11.30000000,Regional District
+0901440,CT-0480011,Ellington School District,Tolland County,P.O. Box 179,Ellington,CT,06029,0179,(860)896-2300,2732.00000,210.40000,5.00000,21,Suburb: Large,13.00000000,Regular School District
+0900214,CT-2890013,Elm City College Preparatory School District,New Haven County,370 James Street,New Haven,CT,06513,,(203)498-0702,756.00000,50.75000,1.00000,12,City: Midsize,14.90000000,Other Education Agency
+0900216,CT-2910013,Elm City Montessori School District,New Haven County,495 Blake Street,New Haven,CT,06515,,(475)220-4100,199.00000,3.40000,1.00000,12,City: Midsize,58.50000000,Other Education Agency
+0901470,CT-0490011,Enfield School District,Hartford County,1010 Enfield Street,Enfield,CT,06082,,(860)253-6500,5070.00000,411.80000,10.00000,21,Suburb: Large,12.30000000,Regular School District
+0901500,CT-0500011,Essex School District,Middlesex County,PO Box 187,Deep River,CT,06417,,(860)526-2417,332.00000,32.80000,1.00000,21,Suburb: Large,10.10000000,Regular School District
+0900018,CT-2720013,Explorations District,Litchfield County,71 Spencer St.,Winsted,CT,06098,,(860)738-9070,88.00000,11.40000,1.00000,41,Rural: Fringe,7.70000000,Other Education Agency
+0901530,CT-0510011,Fairfield School District,Fairfield County,501 Kings Highway East,Fairfield,CT,06825,,(203)255-8371,9805.00000,812.37000,16.00000,21,Suburb: Large,12.10000000,Regular School District
+0901560,CT-0520011,Farmington School District,Hartford County,One Monteith Drive,Farmington,CT,06032,,(860)673-8270,4082.00000,324.70000,7.00000,21,Suburb: Large,12.60000000,Regular School District
+0901590,CT-0530011,Franklin School District,New London County,206 Pond Road,North Franklin,CT,06254,,(860)642-6113,154.00000,15.05000,1.00000,41,Rural: Fringe,10.20000000,Regular School District
+0901620,CT-0540011,Glastonbury School District,Hartford County,P.O.Box191,Glastonbury,CT,06033,,(860)652-7951,5876.00000,425.90000,8.00000,21,Suburb: Large,13.80000000,Regular School District
+0901680,CT-0560011,Granby School District,Hartford County,15-B North Granby Road,Granby,CT,06035,,(860)844-5250,1871.00000,142.00000,4.00000,21,Suburb: Large,13.20000000,Regular School District
+0900219,CT-2940013,Great Oaks Charter School District,Fairfield County,375 Howard Avenue,Bridgeport,CT,06605,,(203)870-8188,465.00000,27.00000,1.00000,12,City: Midsize,17.20000000,Other Education Agency
+0901710,CT-0570011,Greenwich School District,Fairfield County,290 Grenwich Ave,Granby,CT,06830,,(203)625-7400,9074.00000,772.75000,15.00000,21,Suburb: Large,11.70000000,Regular School District
+0901740,CT-0580011,Griswold School District,New London County,211 Slater Avenue,Griswold,CT,06351,,(860)376-7600,1765.00000,138.90000,4.00000,41,Rural: Fringe,12.70000000,Regular School District
+0901770,CT-0590011,Groton School District,New London County,P. O. Box K,Groton,CT,06340,,(860)572-2100,4298.00000,371.00000,9.00000,22,Suburb: Midsize,11.60000000,Regular School District
+0901800,CT-0600011,Guilford School District,New Haven County,Box 367,Guilford,CT,06437,,(203)453-8200,3291.00000,269.30000,7.00000,21,Suburb: Large,12.20000000,Regular School District
+0901860,CT-0620011,Hamden School District,New Haven County,60 Putnam Avenue,Hamden,CT,06517,,(203)407-2000,5336.00000,425.00000,10.00000,21,Suburb: Large,12.60000000,Regular School District
+0901890,CT-0630011,Hampton School District,Windham County,380 Main Street,Hampton,CT,06247,1416,(860)455-9409,93.00000,11.40000,1.00000,42,Rural: Distant,8.20000000,Regular School District
+0901920,CT-0640011,Hartford School District,Hartford County,960 Main Street,Hartford,CT,06103,,(860)695-8000,19051.00000,1314.73000,38.00000,12,City: Midsize,14.50000000,Regular School District
+0901950,CT-0650011,Hartland School District,Hartford County,30 South Road,East Hartland,CT,06027,,(860)653-7207,160.00000,14.90000,1.00000,41,Rural: Fringe,10.70000000,Regular School District
+0902010,CT-0670011,Hebron School District,Tolland County,580 Gilead Street,Hebron,CT,06248,,(860)228-2577,663.00000,58.50000,2.00000,41,Rural: Fringe,11.30000000,Regular School District
+0900207,CT-2860013,Highville Charter School District,New Haven County,One Science Park,New Haven,CT,06511,,(203)287-0528,502.00000,29.00000,1.00000,12,City: Midsize,17.30000000,Other Education Agency
+0900010,CT-2640013,Integrated Day Charter School District,New London County,68 Thermos Ave.,Norwich,CT,06360,,(860)892-1900,337.00000,22.70000,1.00000,13,City: Small,14.80000000,Other Education Agency
+0900011,CT-2650013,Interdistrict School for Arts and Comm District,New London County,190 Governor Winthrop Blvd.,New London,CT,06320,,(860)447-1003,278.00000,20.00000,1.00000,13,City: Small,13.90000000,Other Education Agency
+0900222,CT-3480015,Judicial Centers,†,936 Silas Deane Hwy.,Wethersfield,CT,06109,,(860)721-2158,†,†,0.00000,†,†,†,
+0900007,CT-2610013,Jumoke Academy District,Hartford County,999 Asylum Ave,Hartford,CT,06105,,(860)527-0575,717.00000,49.00000,1.00000,12,City: Midsize,14.60000000,Other Education Agency
+0902040,CT-0680011,Kent School District,Litchfield County,246 Warren Turnpike Road,Falls Village,CT,06031,,(860)927-3537,213.00000,27.50000,1.00000,42,Rural: Distant,7.70000000,Regular School District
+0902070,CT-0690011,Killingly School District,Windham County,PO BOX 210,Danielson,CT,06239,,(860)779-6600,2462.00000,196.90000,4.00000,41,Rural: Fringe,12.50000000,Regular School District
+0903450,CT-2450014,Learn,New London County,44 Hatchetts Hill Road,Old Lyme,CT,06371,,(860)434-4800,2509.00000,207.43000,7.00000,13,City: Small,12.10000000,
+0902130,CT-0710011,Lebanon School District,New London County,891 Exeter Road,Lebanon,CT,06249,,(860)642-7795,990.00000,90.60000,3.00000,42,Rural: Distant,10.90000000,Regular School District
+0902160,CT-0720011,Ledyard School District,New London County,4 Blonder Boulevard,Ledyard,CT,06339,,(860)464-9255,2417.00000,172.57000,5.00000,41,Rural: Fringe,14.00000000,Regular School District
+0902190,CT-0730011,Lisbon School District,New London County,15 Newent Road,Lisbon,CT,06351,,(860)376-5565,401.00000,33.00000,1.00000,41,Rural: Fringe,12.20000000,Regular School District
+0902220,CT-0740011,Litchfield School District,Litchfield County,P.O. Box 110,Litchfield,CT,06759,,(860)567-7500,890.00000,92.00000,4.00000,41,Rural: Fringe,9.70000000,Regular School District
+0902280,CT-0760011,Madison School District,New Haven County,10 Campus Drive,Madison,CT,06443,,(203)245-6300,2717.00000,245.00000,5.00000,21,Suburb: Large,11.10000000,Regular School District
+0902310,CT-0770011,Manchester School District,Hartford County,45 North School Street,Manchester,CT,06042,2010,(860)647-3441,6200.00000,571.62000,10.00000,21,Suburb: Large,10.80000000,Regular School District
+0902340,CT-0780011,Mansfield School District,Tolland County,4 South Eagleville Road,Storrs,CT,06268,,(860)429-3350,1142.00000,103.00000,4.00000,41,Rural: Fringe,11.10000000,Regular School District
+0902370,CT-0790011,Marlborough School District,Hartford County,25 School Drive,Marlborough,CT,06447,,(860)295-6236,449.00000,36.30000,1.00000,41,Rural: Fringe,12.40000000,Regular School District
+0902400,CT-0800011,Meriden School District,New Haven County,Box 848,Meriden,CT,06450,,(203)630-4171,7921.00000,545.98000,12.00000,21,Suburb: Large,14.50000000,Regular School District
+0902490,CT-0830011,Middletown School District,Middlesex County,311 Hunting Hill Avenue,Middletown,CT,06457,,(860)638-1401,4578.00000,362.67000,11.00000,13,City: Small,12.60000000,Regular School District
+0902520,CT-0840011,Milford School District,New Haven County,70 West River Street,Milford,CT,06460,,(203)783-3402,5599.00000,524.50000,13.00000,13,City: Small,10.70000000,Regular School District
+0902550,CT-0850011,Monroe School District,Fairfield County,375 Monroe Turnpike,Monroe,CT,06468,,(203)452-2860,3105.00000,227.10000,5.00000,21,Suburb: Large,13.70000000,Regular School District
+0902580,CT-0860011,Montville School District,New London County,800 Old Colchester Road,Oakdale,CT,06370,,(860)848-1228,2059.00000,179.10000,5.00000,22,Suburb: Midsize,11.50000000,Regular School District
+0902640,CT-0880011,Naugatuck School District,New Haven County,497 Rubber Avenue,Naugatuck,CT,06770,,(203)720-5265,4306.00000,290.10000,9.00000,22,Suburb: Midsize,14.80000000,Regular School District
+0900028,CT-2800013,New Beginnings Inc Family Academy District,Fairfield County,184 Garden St.,Bridgeport,CT,06605,,(203)384-2897,482.00000,33.00000,1.00000,12,City: Midsize,14.60000000,Other Education Agency
+0902670,CT-0890011,New Britain School District,Hartford County,P.O. Box 1960,New Britain,CT,06050,1960,(860)827-2200,10118.00000,704.12000,14.00000,21,Suburb: Large,14.40000000,Regular School District
+0902700,CT-0900011,New Canaan School District,Fairfield County,39 Locust Avenue,New Canaan,CT,06840,,(203)594-4018,4161.00000,342.15000,5.00000,21,Suburb: Large,12.20000000,Regular School District
+0902730,CT-0910011,New Fairfield School District,Fairfield County,3 Brush Hill Road,New Fairfield,CT,06812,,(203)312-5770,2237.00000,184.80000,4.00000,22,Suburb: Midsize,12.10000000,Regular School District
+0902760,CT-0920011,New Hartford School District,Litchfield County,Box 315,New Hartford,CT,06057,,(860)379-8546,446.00000,35.70000,3.00000,41,Rural: Fringe,12.50000000,Regular School District
+0902790,CT-0930011,New Haven School District,New Haven County,54 Meadow Street,New Haven,CT,06519,,(475)220-1000,21075.00000,1569.90000,39.00000,12,City: Midsize,13.40000000,Regular School District
+0902820,CT-0950011,New London School District,New London County,134 Williams Street,New London,CT,06320,,(860)447-6000,3512.00000,262.32000,8.00000,13,City: Small,13.40000000,Regular School District
+0902850,CT-0960011,New Milford School District,Litchfield County,50 East Street,New Milford,CT,06776,,(860)355-8406,3977.00000,304.95000,5.00000,22,Suburb: Midsize,13.00000000,Regular School District
+0902880,CT-0940011,Newington School District,Hartford County,131 Cedar Street,Newington,CT,06111,,(860)667-2000,4031.00000,291.85000,7.00000,21,Suburb: Large,13.80000000,Regular School District
+0902910,CT-0970011,Newtown School District,Fairfield County,3 Primrose Street,Newtown,CT,06470,,(203)426-7620,4282.00000,338.98000,7.00000,22,Suburb: Midsize,12.60000000,Regular School District
+0902940,CT-0980011,Norfolk School District,Litchfield County,128 Greenwoods Rd East,Norfolk,CT,06058,,(860)542-5553,95.00000,8.90000,1.00000,42,Rural: Distant,10.70000000,Regular School District
+0902970,CT-0990011,North Branford School District,New Haven County,PO Box 129,Northford,CT,06472,,(203)484-1440,1729.00000,141.40000,4.00000,21,Suburb: Large,12.20000000,Regular School District
+0903000,CT-1000011,North Canaan School District,Litchfield County,246 Warren Turnpike Road,Falls Village,CT,06031,,(860)824-5149,255.00000,27.67000,1.00000,42,Rural: Distant,9.20000000,Regular School District
+0903030,CT-1010011,North Haven School District,New Haven County,5 Linsley Street,North Haven,CT,06473,,(203)239-2581,3141.00000,261.80000,6.00000,21,Suburb: Large,12.00000000,Regular School District
+0903060,CT-1020011,North Stonington School District,New London County,298 Norwich/Westerly Road,North Stonington,CT,06359,,(860)535-2800,724.00000,73.90000,2.00000,41,Rural: Fringe,9.80000000,Regular School District
+0903090,CT-1030011,Norwalk School District,Fairfield County,Box 6001,Norwalk,CT,06852,,(203)854-4000,11421.00000,854.51000,21.00000,13,City: Small,13.40000000,Regular School District
+0905371,CT-9010022,Norwich Free Academy District,New London County,305 Broadway,Norwich,CT,06360,,(860)887-2505,2256.00000,163.60000,1.00000,13,City: Small,13.80000000,Regular School District
+0903120,CT-1040011,Norwich School District,New London County,90 Town Street,Norwich,CT,06360,,(860)823-4200,3510.00000,254.00000,10.00000,13,City: Small,13.80000000,Regular School District
+0900009,CT-2630013,Odyssey Community School District,Hartford County,579 Middle Tpke West,Manchester,CT,06040,,(860)645-1234,329.00000,29.00000,1.00000,21,Suburb: Large,11.30000000,Other Education Agency
+0900001,CT-3490015,Office of Early Childhood,Hartford County,460 Capitol Avenue,Hartford,CT,06106,,(860)418-6148,†,†,0.00000,12,City: Midsize,†,State District
+0903180,CT-1060011,Old Saybrook School District,Middlesex County,50 Sheffield Street,Old Saybrook,CT,06475,,(860)395-3157,1212.00000,121.90000,3.00000,21,Suburb: Large,9.90000000,Regular School District
+0903210,CT-1070011,Orange School District,New Haven County,637 Orange Center Road,Orange,CT,06477,,(203)891-8020,1180.00000,100.00000,4.00000,21,Suburb: Large,11.80000000,Regular School District
+0903240,CT-1080011,Oxford School District,New Haven County,144 Oxford Rd Unit 1B,Oxford,CT,06478,,(203)888-7754,1789.00000,133.40000,4.00000,21,Suburb: Large,13.40000000,Regular School District
+0900033,CT-2830013,Park City Prep Charter School District,Fairfield County,1550 State Street,Bridgeport,CT,06605,,(203)953-3766,360.00000,21.00000,1.00000,12,City: Midsize,17.10000000,Other Education Agency
+0903270,CT-1090011,Plainfield School District,Windham County,651 Norwich Road,Plainfield,CT,06374,,(860)564-6403,2189.00000,166.70000,5.00000,21,Suburb: Large,13.10000000,Regular School District
+0903300,CT-1100011,Plainville School District,Hartford County,1 Central Square,Plainville,CT,06062,,(860)793-3200,2337.00000,191.00000,5.00000,21,Suburb: Large,12.20000000,Regular School District
+0903330,CT-1110011,Plymouth School District,Litchfield County,77 East Main Street,Terryville,CT,06786,,(860)314-8005,1419.00000,108.60000,4.00000,21,Suburb: Large,13.10000000,Regular School District
+0903360,CT-1120011,Pomfret School District,Windham County,20 Pomfret Street,Pomfret Center,CT,06259,,(860)928-2718,379.00000,35.20000,1.00000,41,Rural: Fringe,10.80000000,Regular School District
+0903390,CT-1130011,Portland School District,Middlesex County,33 East Main Street,Portland,CT,06480,,(860)342-6790,1313.00000,104.20000,5.00000,21,Suburb: Large,12.60000000,Regular School District
+0903420,CT-1140011,Preston School District,New London County,325 Shetucket Turnpike,Preston,CT,06365,,(860)889-6098,440.00000,35.00000,2.00000,41,Rural: Fringe,12.60000000,Regular School District
+0903480,CT-1160011,Putnam School District,Windham County,152 Woodstock Avenue,Putnam,CT,06260,,(860)963-6900,1201.00000,98.00000,3.00000,21,Suburb: Large,12.30000000,Regular School District
+0903510,CT-1170011,Redding School District,Fairfield County,PO Box 500,Easton,CT,06612,,(203)261-2513,854.00000,76.20000,2.00000,41,Rural: Fringe,11.20000000,Regular School District
+0903600,CT-2010012,Regional School District 01,Litchfield County,246 Warren Turnpike Road,Falls Village,CT,06031,,(860)824-0855,387.00000,37.10000,1.00000,42,Rural: Distant,10.40000000,Regular School District
+0903630,CT-2040012,Regional School District 04,Middlesex County,Box 187,Deep River,CT,06417,,(860)526-2417,885.00000,74.90000,2.00000,21,Suburb: Large,11.80000000,Regular School District
+0903660,CT-2050012,Regional School District 05,New Haven County,25 Newton Road,Woodbridge,CT,06525,,(203)397-4811,2167.00000,186.16000,3.00000,21,Suburb: Large,11.60000000,Regular School District
+0903515,CT-2060012,Regional School District 06,Litchfield County,98 WAMOGO Road,Litchfield,CT,06759,,(860)567-7400,909.00000,61.05000,4.00000,41,Rural: Fringe,14.90000000,Regular School District
+0903720,CT-2070012,Regional School District 07,Litchfield County,PO Box 656,Winsted,CT,06098,,(860)379-1084,1063.00000,89.50000,2.00000,31,Town: Fringe,11.90000000,Regular School District
+0903750,CT-2080012,Regional School District 08,Tolland County,85 Wall Street,Hebron,CT,06248,,(860)228-2115,1435.00000,130.50000,2.00000,41,Rural: Fringe,11.00000000,Regular School District
+0903780,CT-2090012,Regional School District 09,Fairfield County,PO B,Easton,CT,06612,,(203)261-2513,875.00000,63.20000,1.00000,41,Rural: Fringe,13.80000000,Regular School District
+0903520,CT-2100012,Regional School District 10,Hartford County,24 Lyon Road,Burlington,CT,06013,,(860)673-2538,2260.00000,189.40000,4.00000,41,Rural: Fringe,11.90000000,Regular School District
+0903570,CT-2110012,Regional School District 11,Windham County,Box 277,Chaplin,CT,06235,,(860)455-9306,225.00000,28.60000,1.00000,41,Rural: Fringe,7.90000000,Regular School District
+0903530,CT-2120012,Regional School District 12,Litchfield County,PO Box 386,Washington Depot,CT,06794,,(860)868-6100,683.00000,77.90000,4.00000,41,Rural: Fringe,8.80000000,Regular School District
+0903535,CT-2130012,Regional School District 13,Middlesex County,135-A Pickett Lane,Durham,CT,06422,,(860)349-7200,1610.00000,142.30000,5.00000,41,Rural: Fringe,11.30000000,Regular School District
+0903536,CT-2140012,Regional School District 14,Litchfield County,PO Box 469,Woodbury,CT,06798,,(203)263-4339,1647.00000,125.70000,4.00000,41,Rural: Fringe,13.10000000,Regular School District
+0903537,CT-2150012,Regional School District 15,New Haven County,Box 395,Middlebury,CT,06762,,(203)758-8259,3602.00000,280.40000,7.00000,21,Suburb: Large,12.80000000,Regular School District
+0903538,CT-2160012,Regional School District 16,New Haven County,30 Coer Road,Prospect,CT,06712,,(203)758-6671,2124.00000,167.40000,4.00000,22,Suburb: Midsize,12.70000000,Regular School District
+0903539,CT-2170012,Regional School District 17,Middlesex County,57 Little City Road,Higganum,CT,06441,,(860)345-4534,2015.00000,174.53000,5.00000,41,Rural: Fringe,11.50000000,Regular School District
+0903540,CT-2180012,Regional School District 18,New London County,49 Lyme Street,Old Lyme,CT,06371,,(860)434-7238,1257.00000,114.50000,5.00000,41,Rural: Fringe,11.00000000,Regular School District
+0900005,CT-2190012,Regional School District 19,Tolland County,1235 Storrs Road,Storrs,CT,06268,2287,(860)487-1862,1146.00000,100.50000,1.00000,21,Suburb: Large,11.40000000,Regular School District
+0903810,CT-1180011,Ridgefield School District,Fairfield County,70 Prospect Street,Ridgefield,CT,06877,,(203)894-5550,4838.00000,388.49000,9.00000,21,Suburb: Large,12.50000000,Regular School District
+0903840,CT-1190011,Rocky Hill School District,Hartford County,761 Old Main St,Rocky Hill,CT,06067,,(860)258-7701,2740.00000,210.50000,5.00000,21,Suburb: Large,13.00000000,Regular School District
+0903900,CT-1210011,Salem School District,New London County,200 Hartford Road,Salem,CT,06420,,(860)892-1223,412.00000,33.95000,1.00000,41,Rural: Fringe,12.10000000,Regular School District
+0903930,CT-1220011,Salisbury School District,Litchfield County,246 Warren Turnpike Road,Falls Village,CT,06031,,(860)435-9871,287.00000,33.34000,1.00000,42,Rural: Distant,8.60000000,Regular School District
+0903960,CT-1230011,Scotland School District,Windham County,PO Box 97,Scotland,CT,06264,,(860)423-0064,105.00000,12.40000,1.00000,42,Rural: Distant,8.50000000,Regular School District
+0903990,CT-1240011,Seymour School District,New Haven County,98 Bank Street,Seymour,CT,06483,,(203)888-4564,2164.00000,153.50000,4.00000,21,Suburb: Large,14.10000000,Regular School District
+0904020,CT-1250011,Sharon School District,Litchfield County,246 Warren Turnpike Road,Falls Village,CT,06069,,(860)364-5153,115.00000,21.00000,1.00000,42,Rural: Distant,5.50000000,Regular School District
+0904050,CT-1260011,Shelton School District,Fairfield County,Po Box 846,Shelton,CT,06484,,(203)924-1023,4688.00000,342.70000,8.00000,21,Suburb: Large,13.70000000,Regular School District
+0904080,CT-1270011,Sherman School District,Fairfield County,2 Route 37 East,Sherman,CT,06784,,(860)355-3793,279.00000,30.50000,1.00000,41,Rural: Fringe,9.10000000,Regular School District
+0900016,CT-2700013,Side By Side Charter School District,Fairfield County,10 Chestnut St.,Norwalk,CT,06854,,(203)857-0306,236.00000,14.50000,1.00000,13,City: Small,16.30000000,Other Education Agency
+0904110,CT-1280011,Simsbury School District,Hartford County,933 Hopmeadow Street,Simsbury,CT,06070,,(860)651-3361,4059.00000,311.52000,7.00000,21,Suburb: Large,13.00000000,Regular School District
+0904140,CT-1290011,Somers School District,Tolland County,1 Vision Blvd,Simsbury,CT,06071,,(860)749-2270,1374.00000,124.50000,3.00000,21,Suburb: Large,11.00000000,Regular School District
+0904170,CT-1320011,South Windsor School District,Hartford County,1737 Main Street,South Windsor,CT,06074,,(860)291-1200,4340.00000,338.05000,6.00000,21,Suburb: Large,12.80000000,Regular School District
+0904230,CT-1310011,Southington School District,Hartford County,200 North Main Street,Southington,CT,06489,,(860)628-3202,6350.00000,494.06000,13.00000,21,Suburb: Large,12.90000000,Regular School District
+0904260,CT-1330011,Sprague School District,New London County,25 Scotland Road,Baltic,CT,06330,,(860)822-8264,313.00000,25.00000,1.00000,22,Suburb: Midsize,12.50000000,Regular School District
+0904290,CT-1340011,Stafford School District,Tolland County,16 Levinthal Run,Stafford Springs,CT,06076,,(860)684-2208,1500.00000,136.00000,5.00000,31,Town: Fringe,11.00000000,Regular School District
+0900031,CT-2820013,Stamford Academy District,Fairfield County,229 North St.,Stamford,CT,06901,,(203)324-6300,152.00000,16.00000,1.00000,12,City: Midsize,9.50000000,Other Education Agency
+0900220,CT-2960013,Stamford Charter School for Excellence District,Fairfield County,1 Schuyler Ave.,Stamford,CT,06902,,(203)989-0000,339.00000,11.00000,1.00000,12,City: Midsize,30.80000000,Other Education Agency
+0904320,CT-1350011,Stamford School District,Fairfield County,Box 9310,Stamford,CT,06901,,(203)977-4543,15942.00000,1292.60000,21.00000,12,City: Midsize,12.30000000,Regular School District
+0904350,CT-1360011,Sterling School District,Windham County,251 Sterling Road,Sterling,CT,06377,,(860)564-4219,361.00000,29.00000,1.00000,41,Rural: Fringe,12.40000000,Regular School District
+0904380,CT-1370011,Stonington School District,New London County,49 North Stonington Road,Old Mystic,CT,06372,,(860)572-0506,2028.00000,175.00000,4.00000,22,Suburb: Midsize,11.60000000,Regular School District
+0904440,CT-1380011,Stratford School District,Fairfield County,1000 East Broadway,Stratford,CT,06615,,(203)385-4210,6762.00000,483.06000,13.00000,13,City: Small,14.00000000,Regular School District
+0904470,CT-1390011,Suffield School District,Hartford County,350 Mountain Road,Suffield,CT,06078,,(860)668-3800,2135.00000,183.68000,4.00000,41,Rural: Fringe,11.60000000,Regular School District
+0900015,CT-2690013,The Bridge Academy District,Fairfield County,160 Pulaski Street,Bridgeport,CT,06608,,(203)336-9999,281.00000,15.75000,1.00000,12,City: Midsize,17.80000000,Other Education Agency
+0905372,CT-9020022,The Gilbert School District,Litchfield County,200 Williams Avenue,Winsted,CT,06098,,(860)379-6163,510.00000,41.40000,1.00000,41,Rural: Fringe,12.30000000,Regular School District
+0905373,CT-9030022,The Woodstock Academy District,Windham County,57 Academy Road,Woodstock,CT,06281,,(860)928-6575,1098.00000,72.35000,1.00000,41,Rural: Fringe,15.20000000,Regular School District
+0904500,CT-1400011,Thomaston School District,Litchfield County,185 Branch Road,Thomaston,CT,06787,,(860)283-3053,845.00000,69.00000,3.00000,21,Suburb: Large,12.20000000,Regular School District
+0904530,CT-1410011,Thompson School District,Windham County,785 Riverside Drive,North Grosvenor,CT,06255,,(860)923-9581,984.00000,91.90000,3.00000,21,Suburb: Large,10.70000000,Regular School District
+0904560,CT-1420011,Tolland School District,Tolland County,51 Tolland Grn,Tolland,CT,06084,3030,(860)870-6850,2368.00000,181.00000,4.00000,41,Rural: Fringe,13.10000000,Regular School District
+0904590,CT-1430011,Torrington School District,Litchfield County,355 Migeon Avenue,Torrington,CT,06790,,(860)489-2327,3846.00000,293.00000,6.00000,31,Town: Fringe,13.10000000,Regular School District
+0904620,CT-1440011,Trumbull School District,Fairfield County,6254 Main Street,Trumbull,CT,06611,,(203)452-4301,6722.00000,498.60000,9.00000,21,Suburb: Large,13.50000000,Regular School District
+0900003,CT-3360015,Unified School District #1,Hartford County,24 Wolcott Hill Road,Wethersfield,CT,06109,,(860)692-7537,156.00000,89.00000,0.00000,21,Suburb: Large,1.80000000,State District
+0900004,CT-3470015,Unified School District #2,Hartford County,505 Hudson Street,Hartford,CT,06106,,(860)550-6416,74.00000,34.00000,0.00000,12,City: Midsize,2.20000000,State District
+0904650,CT-1450011,Union School District,Tolland County,18 Kinney Hollow Road,Union,CT,06076,,(860)684-3146,52.00000,7.85000,1.00000,42,Rural: Distant,6.60000000,Regular School District
+0904680,CT-1460011,Vernon School District,Tolland County,Box 600,Vernon,CT,06066,,(860)870-6000,3114.00000,265.10000,7.00000,21,Suburb: Large,11.70000000,Regular School District
+0904710,CT-1470011,Voluntown School District,New London County,Po Box 129,Voluntown,CT,06384,,(860)376-9167,264.00000,29.00000,1.00000,41,Rural: Fringe,9.10000000,Regular School District
+0904740,CT-1480011,Wallingford School District,New Haven County,100 South Turnpike Road,Wallingford,CT,06492,,(203)949-6500,5730.00000,499.80000,12.00000,21,Suburb: Large,11.50000000,Regular School District
+0904830,CT-1510011,Waterbury School District,New Haven County,236 Grand Street,Waterbury,CT,06702,,(203)574-8004,18751.00000,1392.90000,29.00000,22,Suburb: Midsize,13.50000000,Regular School District
+0904860,CT-1520011,Waterford School District,New London County,15 Rope Ferry Road,Waterford,CT,06385,,(860)444-5801,2497.00000,200.03000,5.00000,22,Suburb: Midsize,12.50000000,Regular School District
+0904890,CT-1530011,Watertown School District,Litchfield County,10 DeForest Street,Watertown,CT,06795,,(860)945-4800,2742.00000,203.65000,5.00000,22,Suburb: Midsize,13.50000000,Regular School District
+0904920,CT-1550011,West Hartford School District,Hartford County,50 South Main Street,West Hartford,CT,06107,,(860)561-6600,9593.00000,754.00000,16.00000,13,City: Small,12.70000000,Regular School District
+0904950,CT-1560011,West Haven School District,New Haven County,355 Main Street,West Haven,CT,06516,,(203)937-4300,5811.00000,452.00000,9.00000,21,Suburb: Large,12.90000000,Regular School District
+0904980,CT-1540011,Westbrook School District,Middlesex County,158 McVeagh Road,Westbrook,CT,06498,,(860)399-6432,671.00000,88.10000,3.00000,21,Suburb: Large,7.60000000,Regular School District
+0905010,CT-1570011,Weston School District,Fairfield County,24 School Road,Weston,CT,06883,,(203)221-1510,2309.00000,190.89000,4.00000,21,Suburb: Large,12.10000000,Regular School District
+0905040,CT-1580011,Westport School District,Fairfield County,110 Myrtle Avenue,Westport,CT,06880,,(203)341-1025,5509.00000,483.65000,7.00000,21,Suburb: Large,11.40000000,Regular School District
+0905070,CT-1590011,Wethersfield School District,Hartford County,127 Hartford Avenue,Wethersfield,CT,06109,,(860)571-8110,3587.00000,267.50000,7.00000,21,Suburb: Large,13.40000000,Regular School District
+0905100,CT-1600011,Willington School District,Tolland County,40A Old Farms Road,Willington,CT,06279,,(860)487-3130,427.00000,41.10000,2.00000,41,Rural: Fringe,10.40000000,Regular School District
+0905130,CT-1610011,Wilton School District,Fairfield County,Box 277,Wilton,CT,06897,,(203)762-3381,3921.00000,307.96000,4.00000,41,Rural: Fringe,12.70000000,Regular School District
+0905160,CT-1620011,Winchester School District,Litchfield County,Po Box 648,Winsted,CT,06098,,(860)379-0706,536.00000,50.89000,2.00000,31,Town: Fringe,10.50000000,Regular School District
+0905190,CT-1630011,Windham School District,Windham County,322 Prospect Street,Willimantic,CT,06226,,(860)465-2310,3344.00000,266.20000,7.00000,31,Town: Fringe,12.60000000,Regular School District
+0905250,CT-1650011,Windsor Locks School District,Hartford County,58 South Elm Street,Windsor Locks,CT,06096,,(860)292-5000,1561.00000,165.80000,4.00000,21,Suburb: Large,9.40000000,Regular School District
+0905220,CT-1640011,Windsor School District,Hartford County,601 Matianuck Avenue,Windsor,CT,06095,,(860)687-2000,3257.00000,320.20000,6.00000,21,Suburb: Large,10.20000000,Regular School District
+0905280,CT-1660011,Wolcott School District,New Haven County,1488 Woodtick Road,Wolcott,CT,06716,,(203)879-8183,2232.00000,185.80000,5.00000,22,Suburb: Midsize,12.00000000,Regular School District
+0905310,CT-1670011,Woodbridge School District,New Haven County,40 Beecher Road,Woodbridge,CT,06525,,(203)387-6631,843.00000,67.00000,1.00000,21,Suburb: Large,12.60000000,Regular School District
+0905370,CT-1690011,Woodstock School District,Windham County,147 A Route 169,Woodstock,CT,06281,,(860)928-7453,834.00000,57.45000,2.00000,41,Rural: Fringe,14.50000000,Regular School District
